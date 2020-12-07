@@ -1,2 +1,2 @@
 # DL-Tps
-Ce répertoire contient les TPs de cour de deep learning
+Ce répertoire contient les TPs de cours de deep learning
